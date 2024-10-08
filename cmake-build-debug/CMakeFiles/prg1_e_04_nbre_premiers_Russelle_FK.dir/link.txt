@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\prg1_e_04_nbre_premiers_Russelle_FK.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\prg1_e_04_nbre_premiers_Russelle_FK.dir/objects.a @CMakeFiles\prg1_e_04_nbre_premiers_Russelle_FK.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\prg1_e_04_nbre_premiers_Russelle_FK.dir/objects.a -Wl,--no-whole-archive -o prg1_e_04_nbre_premiers_Russelle_FK.exe -Wl,--out-implib,libprg1_e_04_nbre_premiers_Russelle_FK.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\prg1_e_04_nbre_premiers_Russelle_FK.dir\linkLibs.rsp
