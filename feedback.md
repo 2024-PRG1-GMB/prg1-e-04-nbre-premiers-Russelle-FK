@@ -1,0 +1,6 @@
+- Pas de constantes pour les limites et entrées utilisateur
+- utilisation de "goto" à proscrire !
+- Indentation pas respectée (par ex. ligne 20, ...)
+- Affichage incorrect selon la donnée
+- Fin de programme ne marche pas si l'on rentre 'N' et 'O' (non respect de la donnée)
+- Vous n'avez pas utilisé de boucle do...while, préférez largement cette option plutôt que d'utiliser des labels et goto!
